@@ -1,0 +1,13 @@
+# DIO.Bank
+
+Aplicação básica desenvolvida em C# que faz:
+
+1. Listagem de Contas Bancárias
+2. Insere novas Contas
+3. Transferência Bancária
+4. Saques
+5. Depósitos
+
+C. Limpa a Tela
+
+X. Sai da Aplicação
